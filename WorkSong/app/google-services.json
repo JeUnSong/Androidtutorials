@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809058014907",
+    "project_id": "worksong-5b878",
+    "storage_bucket": "worksong-5b878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809058014907:android:16892738e9c75d914a3b9e",
+        "android_client_info": {
+          "package_name": "com.example.worksong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809058014907-3nppdgroon53clvib7kjlrcocl8rua2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2s7YHpJ9GYp_XVEyVkx1y5nbPVEgHNiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809058014907-3nppdgroon53clvib7kjlrcocl8rua2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
